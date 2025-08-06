@@ -2,15 +2,6 @@
   "ambassador": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13982.70.16",
         "chrome_version": "92.0.4515.149",
         "channel": "stable-channel",
@@ -92,15 +83,6 @@
   },
   "asuka": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9000.91.0",
         "chrome_version": "56.0.2924.110",
@@ -783,15 +765,6 @@
   },
   "asurada": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13982.88.0",
         "chrome_version": "92.0.4515.162",
@@ -1567,15 +1540,6 @@
   },
   "atlas": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "12499.66.0",
         "chrome_version": "78.0.3904.106",
@@ -2441,15 +2405,6 @@
   "auron-paine": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -2879,15 +2834,6 @@
   },
   "auron-yuna": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -3319,15 +3265,6 @@
   "banjo": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6946.70.0",
         "chrome_version": "43.0.2357.132",
         "channel": "stable-channel",
@@ -3743,15 +3680,6 @@
   },
   "banon": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "8350.68.0",
         "chrome_version": "52.0.2743.116",
@@ -4280,15 +4208,6 @@
   },
   "bob": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9592.85.0",
         "chrome_version": "60.0.3112.112",
@@ -4909,15 +4828,6 @@
   "brask": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "15236.66.0",
         "chrome_version": "109.0.5414.94",
         "channel": "stable-channel",
@@ -5447,15 +5357,6 @@
   "brox": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "16151.53.0",
         "chrome_version": "133.0.6943.146",
         "channel": "stable-channel",
@@ -5605,15 +5506,6 @@
   },
   "brya": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "14588.98.0",
         "chrome_version": "101.0.4951.59",
@@ -6298,15 +6190,6 @@
   "buddy": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7647.84.0",
         "chrome_version": "48.0.2564.116",
         "channel": "stable-channel",
@@ -6653,15 +6536,6 @@
   "buddy-cfm": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13421.53.5",
         "chrome_version": "86.0.4240.87",
         "channel": "stable-channel",
@@ -6692,15 +6566,6 @@
   },
   "butterfly": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "3428.193.0",
         "chrome_version": "25.0.1364.126",
@@ -6984,15 +6849,6 @@
   },
   "candy": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -7430,15 +7286,6 @@
   },
   "caroline": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9334.72.0",
         "chrome_version": "58.0.3029.140",
@@ -8072,15 +7919,6 @@
   },
   "cave": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "8872.76.0",
         "chrome_version": "55.0.2883.105",
@@ -8750,15 +8588,6 @@
   "celes": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7647.84.0",
         "chrome_version": "48.0.2564.116",
         "channel": "stable-channel",
@@ -9328,15 +9157,6 @@
   },
   "chell": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "8172.62.0",
         "chrome_version": "51.0.2704.106",
@@ -10062,15 +9882,6 @@
   "cherry": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "14695.107.0",
         "chrome_version": "102.0.5005.125",
         "channel": "stable-channel",
@@ -10687,15 +10498,6 @@
   "clapper": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "5712.88.0",
         "chrome_version": "35.0.1916.155",
         "channel": "stable-channel",
@@ -10979,15 +10781,6 @@
   "constitution": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "15437.59.22",
         "chrome_version": "114.0.5735.291",
         "channel": "stable-channel",
@@ -11064,15 +10857,6 @@
   },
   "coral": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "10176.76.0",
         "chrome_version": "64.0.3282.190",
@@ -12020,15 +11804,6 @@
   "corsola": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "15329.59.0",
         "chrome_version": "111.0.5563.118",
         "channel": "stable-channel",
@@ -12493,15 +12268,6 @@
   },
   "cyan": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "7520.63.0",
         "chrome_version": "47.0.2526.106",
@@ -13052,15 +12818,6 @@
   "daisy": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -13315,15 +13072,6 @@
   },
   "daisy-skate": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -13580,15 +13328,6 @@
   "daisy-spring": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -13815,15 +13554,6 @@
   },
   "dedede": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13597.105.0",
         "chrome_version": "88.0.4324.208",
@@ -14788,15 +14518,6 @@
   "drallion": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13099.102.0",
         "chrome_version": "87.0.4280.109",
         "channel": "stable-channel",
@@ -15648,15 +15369,6 @@
   "edgar": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "8172.62.0",
         "chrome_version": "51.0.2704.106",
         "channel": "stable-channel",
@@ -16205,15 +15917,6 @@
   },
   "elm": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "8350.68.0",
         "chrome_version": "52.0.2743.116",
@@ -17114,15 +16817,6 @@
   "endeavour": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13816.63.21",
         "chrome_version": "90.0.4430.106",
         "channel": "stable-channel",
@@ -17209,15 +16903,6 @@
   },
   "enguarde": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "5841.98.0",
         "chrome_version": "36.0.1985.143",
@@ -17701,15 +17386,6 @@
   },
   "eve": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9901.54.0",
         "chrome_version": "62.0.3202.74",
@@ -18426,14 +18102,14 @@
       },
       {
         "platform_version": "15886.44.0",
-        "chrome_version": "126.0.6478.132",
+        "chrome_version": "126.0.6478.178",
         "channel": "stable-channel",
         "last_modified": 1719927335,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_eve_recovery_stable-channel_mp-v5.bin.zip"
       },
       {
         "platform_version": "15886.44.0",
-        "chrome_version": "126.0.6478.178",
+        "chrome_version": "126.0.6478.132",
         "channel": "stable-channel",
         "last_modified": 1719927335,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15886.44.0_eve_recovery_stable-channel_mp-v5.bin.zip"
@@ -18511,15 +18187,6 @@
   },
   "excelsior": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13099.72.33",
         "chrome_version": "84.0.4147.142",
@@ -18630,15 +18297,6 @@
   },
   "expresso": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "5841.98.0",
         "chrome_version": "36.0.1985.143",
@@ -19112,15 +18770,6 @@
   "falco": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "4537.147.0",
         "chrome_version": "30.0.1599.116",
         "channel": "stable-channel",
@@ -19446,15 +19095,6 @@
   "falco-li": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -19723,15 +19363,6 @@
   },
   "fizz": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "10575.58.0",
         "chrome_version": "67.0.3396.99",
@@ -20761,15 +20392,6 @@
   "fizz-cfm": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13421.53.5",
         "chrome_version": "86.0.4240.87",
         "channel": "stable-channel",
@@ -20858,15 +20480,6 @@
   },
   "gandof": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "7262.57.0",
         "chrome_version": "45.0.2454.98",
@@ -21263,15 +20876,6 @@
   "geralt": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "15917.71.0",
         "chrome_version": "127.0.6533.132",
         "channel": "stable-channel",
@@ -21493,15 +21097,6 @@
   },
   "glimmer": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "5712.88.0",
         "chrome_version": "35.0.1916.155",
@@ -21771,15 +21366,6 @@
   },
   "gnawty": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6158.70.0",
         "chrome_version": "38.0.2125.110",
@@ -22226,15 +21812,6 @@
   },
   "grunt": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "11151.113.0",
         "chrome_version": "71.0.3578.127",
@@ -23215,15 +22792,6 @@
   "guado": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6946.70.0",
         "chrome_version": "43.0.2357.132",
         "channel": "stable-channel",
@@ -23570,15 +23138,6 @@
   "guado-cfm": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13421.53.5",
         "chrome_version": "86.0.4240.87",
         "channel": "stable-channel",
@@ -23609,15 +23168,6 @@
   },
   "guybrush": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "14695.107.0",
         "chrome_version": "102.0.5005.125",
@@ -24206,15 +23756,6 @@
   },
   "hana": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9202.64.0",
         "chrome_version": "57.0.2987.146",
@@ -25188,15 +24729,6 @@
   "hatch": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "12739.94.0",
         "chrome_version": "80.0.3987.137",
         "channel": "stable-channel",
@@ -26116,15 +25648,6 @@
   "heli": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7262.57.0",
         "chrome_version": "45.0.2454.98",
         "channel": "stable-channel",
@@ -26512,15 +26035,6 @@
   },
   "jacuzzi": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13020.82.0",
         "chrome_version": "83.0.4103.112",
@@ -27407,15 +26921,6 @@
   },
   "kalista": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "12239.92.0",
         "chrome_version": "76.0.3809.136",
@@ -28323,15 +27828,6 @@
   "kalista-cfm": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13421.53.5",
         "chrome_version": "86.0.4240.87",
         "channel": "stable-channel",
@@ -28419,15 +27915,6 @@
   },
   "kefka": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9000.91.0",
         "chrome_version": "56.0.2924.110",
@@ -28931,15 +28418,6 @@
   },
   "kevin": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9000.91.0",
         "chrome_version": "56.0.2924.110",
@@ -29595,15 +29073,6 @@
   "kip": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "5841.98.0",
         "chrome_version": "36.0.1985.143",
         "channel": "stable-channel",
@@ -30065,15 +29534,6 @@
   },
   "kukui": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "12739.105.0",
         "chrome_version": "80.0.3987.158",
@@ -30980,15 +30440,6 @@
   "lars": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "8172.62.0",
         "chrome_version": "51.0.2704.106",
         "channel": "stable-channel",
@@ -31648,15 +31099,6 @@
   "leon": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "4920.83.0",
         "chrome_version": "32.0.1700.103",
         "channel": "stable-channel",
@@ -31967,15 +31409,6 @@
   },
   "link": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "3428.193.0",
         "chrome_version": "25.0.1364.126",
@@ -32301,15 +31734,6 @@
   },
   "lulu": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6946.70.0",
         "chrome_version": "43.0.2357.132",
@@ -32727,15 +32151,6 @@
   "lumpy": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "3428.193.0",
         "chrome_version": "25.0.1364.126",
         "channel": "stable-channel",
@@ -33011,15 +32426,6 @@
   },
   "mccloud": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "5841.98.0",
         "chrome_version": "36.0.1985.143",
@@ -33303,15 +32709,6 @@
   },
   "monroe": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "5500.130.0",
         "chrome_version": "34.0.1847.134",
@@ -33674,15 +33071,6 @@
   },
   "nami": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "10895.78.0",
         "chrome_version": "69.0.3497.120",
@@ -34678,15 +34066,6 @@
   "nautilus": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "10575.58.0",
         "chrome_version": "67.0.3396.99",
         "channel": "stable-channel",
@@ -35567,15 +34946,6 @@
   "ninja": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7262.57.0",
         "chrome_version": "45.0.2454.98",
         "channel": "stable-channel",
@@ -35963,15 +35333,6 @@
   },
   "nissa": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "15236.80.0",
         "chrome_version": "109.0.5414.125",
@@ -36528,6 +35889,7 @@
       "IdeaPad Slim 3i Chromebook Plus (14\\\" Intel)",
       "LI7A",
       "LI7B",
+      "LI7C",
       "LI7D",
       "LI7F",
       "Lenovo 100e Chromebook Gen 4 (ADL-N)",
@@ -36646,15 +36008,6 @@
   },
   "nocturne": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "11151.113.0",
         "chrome_version": "71.0.3578.127",
@@ -37590,15 +36943,6 @@
   "nyan-big": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -37861,15 +37205,6 @@
   "nyan-blaze": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -38131,15 +37466,6 @@
   },
   "nyan-kitty": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6680.64.0",
         "chrome_version": "41.0.2272.89",
@@ -38465,15 +37791,6 @@
   },
   "octopus": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "11316.165.0",
         "chrome_version": "72.0.3626.122",
@@ -39649,15 +38966,6 @@
   "orco": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7077.134.0",
         "chrome_version": "44.0.2403.156",
         "channel": "stable-channel",
@@ -40060,15 +39368,6 @@
   "panther": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "5500.130.0",
         "chrome_version": "34.0.1847.134",
         "channel": "stable-channel",
@@ -40366,15 +39665,6 @@
   "parrot": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "10323.62.0",
         "chrome_version": "65.0.3325.184",
         "channel": "stable-channel",
@@ -40389,15 +39679,6 @@
   },
   "parrot-ivb": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -40611,15 +39892,6 @@
   },
   "peach-pi": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -40868,15 +40140,6 @@
   },
   "peach-pit": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -41132,15 +40395,6 @@
   },
   "peppy": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "4731.101.0",
         "chrome_version": "31.0.1650.67",
@@ -41459,15 +40713,6 @@
   },
   "puff": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13421.99.0",
         "chrome_version": "86.0.4240.198",
@@ -42314,15 +41559,6 @@
   },
   "pyro": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9334.72.0",
         "chrome_version": "58.0.3029.140",
@@ -43195,15 +42431,6 @@
   "quawks": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "5712.88.0",
         "chrome_version": "35.0.1916.155",
         "channel": "stable-channel",
@@ -43500,15 +42727,6 @@
   },
   "rammus": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "11647.104.3",
         "chrome_version": "73.0.3683.88",
@@ -44499,15 +43717,6 @@
   "rauru": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "16267.43.0",
         "chrome_version": "137.0.7151.86",
         "channel": "stable-channel",
@@ -44546,15 +43755,6 @@
   },
   "reef": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9592.96.0",
         "chrome_version": "60.0.3112.114",
@@ -45443,15 +44643,6 @@
   "reks": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7647.84.0",
         "chrome_version": "48.0.2564.116",
         "channel": "stable-channel",
@@ -46007,15 +45198,6 @@
   "relm": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "8530.93.0",
         "chrome_version": "53.0.2785.144",
         "channel": "stable-channel",
@@ -46546,15 +45728,6 @@
   "reven": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "14516.0.0",
         "chrome_version": "100.0.4880.0",
         "channel": "dev-channel",
@@ -47084,15 +46257,6 @@
   "rex": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "15786.48.0",
         "chrome_version": "123.0.6312.112",
         "channel": "stable-channel",
@@ -47358,15 +46522,6 @@
   },
   "rikku": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6946.70.0",
         "chrome_version": "43.0.2357.132",
@@ -47714,15 +46869,6 @@
   "rikku-cfm": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "13421.53.5",
         "chrome_version": "86.0.4240.87",
         "channel": "stable-channel",
@@ -47753,15 +46899,6 @@
   },
   "samus": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6812.88.0",
         "chrome_version": "42.0.2311.153",
@@ -48192,15 +47329,6 @@
   },
   "sand": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9592.96.0",
         "chrome_version": "60.0.3112.114",
@@ -49086,15 +48214,6 @@
   },
   "sarien": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "12105.100.0",
         "chrome_version": "75.0.3770.144",
@@ -50025,15 +49144,6 @@
   "scarlet": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "10575.58.0",
         "chrome_version": "67.0.3396.99",
         "channel": "stable-channel",
@@ -50640,15 +49750,6 @@
   },
   "sentry": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "8172.62.0",
         "chrome_version": "51.0.2704.106",
@@ -51346,15 +50447,6 @@
   "setzer": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "8172.62.0",
         "chrome_version": "51.0.2704.106",
         "channel": "stable-channel",
@@ -51792,15 +50884,6 @@
   },
   "skyrim": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "15393.58.0",
         "chrome_version": "113.0.5672.134",
@@ -52248,15 +51331,6 @@
   },
   "snappy": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9334.72.0",
         "chrome_version": "58.0.3029.140",
@@ -53143,15 +52217,6 @@
   "soraka": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "10452.99.0",
         "chrome_version": "66.0.3359.203",
         "channel": "stable-channel",
@@ -54031,15 +53096,6 @@
   "squawks": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "5712.88.0",
         "chrome_version": "35.0.1916.155",
         "channel": "stable-channel",
@@ -54322,15 +53378,6 @@
   },
   "staryu": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "15662.35.0",
         "chrome_version": "120.0.6099.80",
@@ -54687,15 +53734,6 @@
   "stout": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "3428.193.0",
         "chrome_version": "25.0.1364.126",
         "channel": "stable-channel",
@@ -55020,15 +54058,6 @@
   },
   "strongbad": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "14092.66.0",
         "chrome_version": "93.0.4577.95",
@@ -55811,15 +54840,6 @@
   "stumpy": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "3428.193.0",
         "chrome_version": "25.0.1364.126",
         "channel": "stable-channel",
@@ -56088,15 +55108,6 @@
   },
   "sumo": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "7520.63.0",
         "chrome_version": "47.0.2526.106",
@@ -56471,15 +55482,6 @@
   },
   "swanky": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6158.70.0",
         "chrome_version": "38.0.2125.110",
@@ -56924,15 +55926,6 @@
   },
   "terra": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "7647.84.0",
         "chrome_version": "48.0.2564.116",
@@ -57450,15 +56443,6 @@
   "tidus": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6946.86.0",
         "chrome_version": "43.0.2357.134",
         "channel": "stable-channel",
@@ -57840,15 +56824,6 @@
   "tricky": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "5841.98.0",
         "chrome_version": "36.0.1985.143",
         "channel": "stable-channel",
@@ -58131,15 +57106,6 @@
   },
   "trogdor": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13597.105.0",
         "chrome_version": "88.0.4324.208",
@@ -58990,15 +57956,6 @@
   "ultima": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7647.84.0",
         "chrome_version": "48.0.2564.116",
         "channel": "stable-channel",
@@ -59569,15 +58526,6 @@
   "veyron-fievel": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "9000.91.0",
         "chrome_version": "56.0.2924.110",
         "channel": "stable-channel",
@@ -59952,15 +58900,6 @@
   "veyron-jaq": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6812.83.0",
         "chrome_version": "42.0.2311.134",
         "channel": "stable-channel",
@@ -60298,15 +59237,6 @@
   },
   "veyron-jerry": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6812.83.0",
         "chrome_version": "42.0.2311.134",
@@ -60656,15 +59586,6 @@
   "veyron-mickey": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "7647.84.0",
         "chrome_version": "48.0.2564.116",
         "channel": "stable-channel",
@@ -60961,15 +59882,6 @@
   },
   "veyron-mighty": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6812.83.0",
         "chrome_version": "42.0.2311.134",
@@ -61319,15 +60231,6 @@
   "veyron-minnie": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6946.70.0",
         "chrome_version": "43.0.2357.132",
         "channel": "stable-channel",
@@ -61638,15 +60541,6 @@
   },
   "veyron-speedy": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6812.83.0",
         "chrome_version": "42.0.2311.134",
@@ -61965,15 +60859,6 @@
   },
   "veyron-tiger": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "9000.91.0",
         "chrome_version": "56.0.2924.110",
@@ -62376,15 +61261,6 @@
   },
   "volteer": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13816.64.0",
         "chrome_version": "90.0.4430.100",
@@ -63203,15 +62079,6 @@
   "winky": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6158.70.0",
         "chrome_version": "38.0.2125.110",
         "channel": "stable-channel",
@@ -63641,15 +62508,6 @@
   },
   "wizpig": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "8350.68.0",
         "chrome_version": "52.0.2743.116",
@@ -64170,15 +63028,6 @@
   "wolf": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "4920.83.0",
         "chrome_version": "32.0.1700.103",
         "channel": "stable-channel",
@@ -64490,15 +63339,6 @@
   "x86-alex": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -64618,15 +63458,6 @@
   },
   "x86-alex-he": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -64757,15 +63588,6 @@
   "x86-mario": {
     "images": [
       {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
-      {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
         "channel": "stable-channel",
@@ -64873,15 +63695,6 @@
   },
   "x86-zgb": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -65009,15 +63822,6 @@
   },
   "x86-zgb-he": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "6457.107.0",
         "chrome_version": "40.0.2214.115",
@@ -65147,15 +63951,6 @@
   },
   "zako": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "5712.88.0",
         "chrome_version": "35.0.1916.155",
@@ -65453,15 +64248,6 @@
   },
   "zork": {
     "images": [
-      {
-        "platform_version": "0.0.0",
-        "chrome_version": "Credit: github.com/MercuryWorkshop/chromeos-releases-data",
-        "channel": "stable-channel",
-        "last_modified": 0,
-        "url": "https://github.com/MercuryWorkshop/chromeos-releases-data",
-        "__license": "https://github.com/MercuryWorkshop/chromeos-releases-data/blob/main/LICENSE",
-        "__license_info": "JSON data is licensed under the Creative Commons Attribution license. If you use this for your own projects, you must include attribution and link to the repository."
-      },
       {
         "platform_version": "13505.73.0",
         "chrome_version": "87.0.4280.109",
